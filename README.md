@@ -37,7 +37,7 @@
 #### 使用方法
 授权完成后，Bot对话框执行`\rename`命令，输入重命名模板
 
-## https://github.com/jsmjsm/GoogleDriveBot.git使用方案
+## 使用方案
 ![-w1400](media/15807362118587/15807397825304.jpg)
 
 
