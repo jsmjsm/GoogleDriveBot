@@ -1,5 +1,5 @@
 # 谷歌网盘管家·使用说明
-🤖 https://t.me/GoogleDriveBot 
+🤖 https://t.me/GoogleDriveManagerBot 
 
 谷歌网盘管家是一个协助你管理谷歌网盘文件的Bot。他不能取代也无法取代谷歌网盘管家。
 
