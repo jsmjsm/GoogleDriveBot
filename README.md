@@ -1,3 +1,6 @@
+# 网盘管家已经完成了他的使命，我们后会有期！
+
+
 # 谷歌网盘管家·使用说明
 ![gdbot](https://i.loli.net/2020/02/07/zowiKJkuhaLvef3.png)
 
